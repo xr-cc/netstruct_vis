@@ -1,0 +1,28 @@
+ ----------- LEVEL 0 ----------- 
+Size_0065_Level_0_Entry_0_Line_0_TH_0_Modularity_	|A:65	
+ ----------- LEVEL 1 ----------- 
+Size_0040_Level_1_Entry_0_Line_0_ParentLevel_0_ParentEntry_0_ParentLine_0_TH_0.05011_Modularity_	|A:40	
+Size_0025_Level_1_Entry_0_Line_1_ParentLevel_0_ParentEntry_0_ParentLine_0_TH_0.05011_Modularity_	|A:25	
+ ----------- LEVEL 2 ----------- 
+Size_0026_Level_2_Entry_0_Line_0_ParentLevel_1_ParentEntry_0_ParentLine_0_TH_0.10811_Modularity_	|A:26	
+Size_0014_Level_2_Entry_0_Line_1_ParentLevel_1_ParentEntry_0_ParentLine_0_TH_0.10811_Modularity_	|A:14	
+Size_0015_Level_2_Entry_1_Line_0_ParentLevel_1_ParentEntry_0_ParentLine_1_TH_0.30611_Modularity_	|A:15	
+Size_0003_Level_2_Entry_1_Line_1_ParentLevel_1_ParentEntry_0_ParentLine_1_TH_0.30611_Modularity_	|A:3	
+ ----------- LEVEL 3 ----------- 
+Size_0022_Level_3_Entry_0_Line_0_ParentLevel_2_ParentEntry_0_ParentLine_0_TH_0.35111_Modularity_	|A:22	
+Size_0003_Level_3_Entry_0_Line_1_ParentLevel_2_ParentEntry_0_ParentLine_0_TH_0.35111_Modularity_	|A:3	
+Size_0008_Level_3_Entry_1_Line_0_ParentLevel_2_ParentEntry_0_ParentLine_1_TH_0.33411_Modularity_	|A:8	
+Size_0004_Level_3_Entry_1_Line_1_ParentLevel_2_ParentEntry_0_ParentLine_1_TH_0.33411_Modularity_	|A:4	
+Size_0004_Level_3_Entry_2_Line_0_ParentLevel_2_ParentEntry_1_ParentLine_0_TH_0.37511_Modularity_	|A:4	
+Size_0004_Level_3_Entry_2_Line_1_ParentLevel_2_ParentEntry_1_ParentLine_0_TH_0.37511_Modularity_	|A:4	
+ ----------- LEVEL 4 ----------- 
+Size_0019_Level_4_Entry_0_Line_0_ParentLevel_3_ParentEntry_0_ParentLine_0_TH_0.35211_Modularity_	|A:19	
+Size_0003_Level_4_Entry_0_Line_1_ParentLevel_3_ParentEntry_0_ParentLine_0_TH_0.35211_Modularity_	|A:3	
+Size_0003_Level_4_Entry_2_Line_0_ParentLevel_3_ParentEntry_1_ParentLine_0_TH_0.38311_Modularity_	|A:3	
+Size_0005_Level_4_Entry_2_Line_1_ParentLevel_3_ParentEntry_1_ParentLine_0_TH_0.38311_Modularity_	|A:5	
+ ----------- LEVEL 5 ----------- 
+Size_0014_Level_5_Entry_0_Line_0_ParentLevel_4_ParentEntry_0_ParentLine_0_TH_0.38311_Modularity_	|A:14	
+Size_0003_Level_5_Entry_0_Line_1_ParentLevel_4_ParentEntry_0_ParentLine_0_TH_0.38311_Modularity_	|A:3	
+ ----------- LEVEL 6 ----------- 
+Size_0007_Level_6_Entry_0_Line_0_ParentLevel_5_ParentEntry_0_ParentLine_0_TH_0.65011_Modularity_	|A:7	
+Size_0004_Level_6_Entry_0_Line_1_ParentLevel_5_ParentEntry_0_ParentLine_0_TH_0.65011_Modularity_	|A:4	
